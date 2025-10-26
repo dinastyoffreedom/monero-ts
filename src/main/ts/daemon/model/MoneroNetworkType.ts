@@ -1,5 +1,4 @@
 import MoneroError from "../../common/MoneroError";
-import MoneroError from "../../common/MoneroError";
 
 /**
  * Defines the Monero and Dinastycoin network types.
